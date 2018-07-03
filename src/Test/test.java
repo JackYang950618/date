@@ -1,5 +1,6 @@
 package Test;
 
+import java.sql.SQLOutput;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -18,6 +19,7 @@ public class test {
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyyMMdd");
         String prefix = simpleDateFormat.format(date);
         System.out.println(prefix);
+        System.out.println("21323");
 
     }
 }

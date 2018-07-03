@@ -20,6 +20,7 @@ public class test {
         String prefix = simpleDateFormat.format(date);
         System.out.println(prefix);
         System.out.println("21323");
+        System.out.println("12qwewqeewqe");
 
     }
 }
